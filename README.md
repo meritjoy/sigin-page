@@ -1,4 +1,4 @@
-# UI/UX Design Assignment
+# FIND Talent Challenge : UI/UX Design Assignment
 
 ## Task 1
 
