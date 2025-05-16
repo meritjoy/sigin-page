@@ -33,4 +33,4 @@ This refers to the **visual elements and interactive components** that a user se
 
 This is a minimalist recreation of the provided login screen based on the instructions in the assignment. The goal was not focused on aesthetic beauty but on clean, functional layout and structure.
 
-![Sign In Page](./sign%20in%20page.png)
+![Sign In Page](./sign-in-page.png)
